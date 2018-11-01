@@ -1,0 +1,315 @@
+[
+  {
+    "id": 0,
+    "name": "Verify Previous Days Basket",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "team": "FA",
+    "status": "complete",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 1,
+    "name": "Confirm Reciept of Collateral and Evaluate",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 2,
+    "name": "Transfer Agent Manages ETF Shares",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 3,
+    "name": "Corporate Actions",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 4,
+    "name": "Pricing Control Alert",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_ALERT",
+    "relatesToEventId": 8,
+    "completedAt": null
+  },
+  {
+    "id": 5,
+    "name": "Fund Accounting Morning",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pricing Control Alert",
+    "content": "Pricing information not recieved by 2.30pm",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_ALERT",
+    "relatesToEventId": 8,
+    "completedAt": null
+  },
+  {
+    "id": 7,
+    "messages": [],
+    "header": {
+      "enabled": false
+    },
+    "type": "SYMPHONY_IM",
+    "relatesToEventId": 8,
+    "completedAt": null
+  },
+  {
+    "id": 8,
+    "name": "Pricing Control",
+    "subHeader": "~ Delayed by 2 Hours",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "slipping",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 9,
+    "header": {
+      "enabled": true
+    },
+    "order": {
+      "ap": "Goldman",
+      "ticker": "ABCFF",
+      "type": "Redeem"
+    },
+    "type": "ETF_ORDER",
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 10,
+    "name": "Fund Accounting Afternoon",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "team": "FA",
+    "status": "complete",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 11,
+    "name": "Determining Official NAV",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 12,
+    "name": "Determining Settlement NAV",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 13,
+    "name": "Determining Begining of the Day File",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 14,
+    "name": "Basket is Ready",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [1,2],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+  {
+    "id": 15,
+    "name": "Shipped to DTCC and all external parties",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+
+  {
+    "id": 16,
+    "name": "Transfer Agent Order Collection",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+
+  {
+    "id": 17,
+    "name": "Corporate Actions",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+
+  {
+    "id": 18,
+    "name": "Recieved Basket Transactions",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 75
+    }
+  },
+
+  {
+    "id": 19,
+    "name": "Market & OTC Pricing",
+    "header": {
+      "enabled": true
+    },
+    "type": "ETF_STAGE",
+    "status": "complete",
+    "team": "FA",
+    "members": [1,2],
+    "completedAt": null,
+    "subStage": {
+      "name": "Control Review",
+      "percent": 25
+    }
+  }
+
+]

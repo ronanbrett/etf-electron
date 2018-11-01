@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "events": [
+      {
+        "id": 1,
+        "stage": {
+          "id": 0,
+          "name": "Verify Previous Days Basket",
+          "header": {
+            "enabled": true
+          },
+          "type": "ETF_STAGE",
+          "team": "FA",
+          "members": [],
+          "completedAt": null,
+          "subStage": {
+            "name": "Control Review"
+          }
+        }
+      },
+      {
+        "id": 1,
+        "stage": {
+          "id": "corpActions",
+          "name": "Corporate Actions",
+          "header": {
+            "enabled": true
+          },
+          "type": "ETF_STAGE",
+          "team": "FA",
+          "members": [],
+          "completedAt": null,
+          "subStage": {
+            "name": "Control Review"
+          }
+        }
+      }
+    ]
+  }
+]

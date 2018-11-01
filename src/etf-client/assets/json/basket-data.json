@@ -1,0 +1,723 @@
+[
+  {
+    "Identifier": "74915M100",
+    "Ticker": "QRTEA ",
+    "Name": "Qurate Retail Inc",
+    "Shares": 3502384,
+    "Price": 20.90731627
+  },
+  {
+    "Identifier": "704326107",
+    "Ticker": "PAYX ",
+    "Name": "Paychex Inc",
+    "Shares": 2917262,
+    "Price": 72.25261221
+  },
+  {
+    "Identifier": "16119P108",
+    "Ticker": "CHTR ",
+    "Name": "Charter Communications Inc",
+    "Shares": 1883979,
+    "Price": 313.1190422
+  },
+  {
+    "Identifier": "61174X109",
+    "Ticker": "MNST ",
+    "Name": "Monster Beverage Corp",
+    "Shares": 4489912,
+    "Price": 55.63310595
+  },
+  {
+    "Identifier": "70450Y103",
+    "Ticker": "PYPL ",
+    "Name": "PayPal Holdings Inc",
+    "Shares": 9618305,
+    "Price": 82.39261491
+  },
+  {
+    "Identifier": "09061G101",
+    "Ticker": "BMRN ",
+    "Name": "BioMarin Pharmaceutical Inc",
+    "Shares": 1443194,
+    "Price": 100.0543586
+  },
+  {
+    "Identifier": "871607107",
+    "Ticker": "SNPS ",
+    "Name": "Synopsys Inc",
+    "Shares": 1207568,
+    "Price": 92.37496356
+  },
+  {
+    "Identifier": "445658107",
+    "Ticker": "JBHT ",
+    "Name": "JB Hunt Transport Services Inc",
+    "Shares": 888461,
+    "Price": 119.3910031
+  },
+  {
+    "Identifier": "90384S303",
+    "Ticker": "ULTA ",
+    "Name": "Ulta Beauty Inc",
+    "Shares": 485706,
+    "Price": 267.7061844
+  },
+  {
+    "Identifier": "693718108",
+    "Ticker": "PCAR ",
+    "Name": "PACCAR Inc",
+    "Shares": 2848559,
+    "Price": 67.26839781
+  },
+  {
+    "Identifier": "G5480U104",
+    "Ticker": "LBTYA ",
+    "Name": "Liberty Global PLC",
+    "Shares": 1678514,
+    "Price": 26.50126838
+  },
+  {
+    "Identifier": "595017104",
+    "Ticker": "MCHP ",
+    "Name": "Microchip Technology Inc",
+    "Shares": 1913984,
+    "Price": 68.65010366
+  },
+  {
+    "Identifier": "311900104",
+    "Ticker": "FAST ",
+    "Name": "Fastenal Co",
+    "Shares": 2331772,
+    "Price": 56.05644548
+  },
+  {
+    "Identifier": "855244109",
+    "Ticker": "SBUX ",
+    "Name": "Starbucks Corp",
+    "Shares": 10962683,
+    "Price": 55.24648939
+  },
+  {
+    "Identifier": "16255101",
+    "Ticker": "ALGN ",
+    "Name": "Align Technology Inc",
+    "Shares": 652656,
+    "Price": 350.2195644
+  },
+  {
+    "Identifier": "92857W308",
+    "Ticker": "VOD ",
+    "Name": "Vodafone Group PLC ADR",
+    "Shares": 3858813,
+    "Price": 20.92697936
+  },
+  {
+    "Identifier": "17275R102",
+    "Ticker": "CSCO ",
+    "Name": "Cisco Systems Inc",
+    "Shares": 38215120,
+    "Price": 47.68856018
+  },
+  {
+    "Identifier": "156782104",
+    "Ticker": "CERN ",
+    "Name": "Cerner Corp",
+    "Shares": 2673288,
+    "Price": 63.99890322
+  },
+  {
+    "Identifier": "52769106",
+    "Ticker": "ADSK ",
+    "Name": "Autodesk Inc",
+    "Shares": 1776333,
+    "Price": 150.6366486
+  },
+  {
+    "Identifier": "47215P106",
+    "Ticker": "JD ",
+    "Name": "JD.com Inc ADR",
+    "Shares": 7497326,
+    "Price": 23.36747795
+  },
+  {
+    "Identifier": "882508104",
+    "Ticker": "TXN ",
+    "Name": "Texas Instruments Inc",
+    "Shares": 7899930,
+    "Price": 102.3069002
+  },
+  {
+    "Identifier": "418056107",
+    "Ticker": "HAS ",
+    "Name": "Hasbro Inc",
+    "Shares": 1031664,
+    "Price": 100.8285643
+  },
+  {
+    "Identifier": "24906P109",
+    "Ticker": "XRAY ",
+    "Name": "DENTSPLY SIRONA Inc",
+    "Shares": 1806621,
+    "Price": 35.98610334
+  },
+  {
+    "Identifier": "09857L108",
+    "Ticker": "BKNG ",
+    "Name": "Booking Holdings Inc",
+    "Shares": 385771,
+    "Price": 1885.740634
+  },
+  {
+    "Identifier": "871503108",
+    "Ticker": "SYMC ",
+    "Name": "Symantec Corp",
+    "Shares": 5050715,
+    "Price": 19.91786311
+  },
+  {
+    "Identifier": "806407102",
+    "Ticker": "HSIC ",
+    "Name": "Henry Schein Inc",
+    "Shares": 1244298,
+    "Price": 87.44822382
+  },
+  {
+    "Identifier": "37833100",
+    "Ticker": "AAPL ",
+    "Name": "Apple Inc",
+    "Shares": 39247646,
+    "Price": 222.1960535
+  },
+  {
+    "Identifier": "64110L106",
+    "Ticker": "NFLX ",
+    "Name": "Netflix Inc",
+    "Shares": 3538529,
+    "Price": 348.1192326
+  },
+  {
+    "Identifier": "874054109",
+    "Ticker": "TTWO ",
+    "Name": "Take-Two Interactive Software Inc",
+    "Shares": 924868,
+    "Price": 129.4901002
+  },
+  {
+    "Identifier": "778296103",
+    "Ticker": "ROST ",
+    "Name": "Ross Stores Inc",
+    "Shares": 3059747,
+    "Price": 93.71449666
+  },
+  {
+    "Identifier": "00724F101",
+    "Ticker": "ADBE ",
+    "Name": "Adobe Systems Inc",
+    "Shares": 3978907,
+    "Price": 260.7436163
+  },
+  {
+    "Identifier": "11135F101",
+    "Ticker": "AVGO ",
+    "Name": "Broadcom Inc",
+    "Shares": 3507841,
+    "Price": 241.9134733
+  },
+  {
+    "Identifier": "46120E602",
+    "Ticker": "ISRG ",
+    "Name": "Intuitive Surgical Inc",
+    "Shares": 924480,
+    "Price": 543.3464218
+  },
+  {
+    "Identifier": "02079K305",
+    "Ticker": "GOOGL ",
+    "Name": "Alphabet Inc",
+    "Shares": 2428803,
+    "Price": 1156.924254
+  },
+  {
+    "Identifier": "461202103",
+    "Ticker": "INTU ",
+    "Name": "Intuit Inc",
+    "Shares": 2102012,
+    "Price": 220.0846617
+  },
+  {
+    "Identifier": "713448108",
+    "Ticker": "PEP ",
+    "Name": "PepsiCo Inc",
+    "Shares": 11492656,
+    "Price": 105.5167926
+  },
+  {
+    "Identifier": "172908105",
+    "Ticker": "CTAS ",
+    "Name": "Cintas Corp",
+    "Shares": 863529,
+    "Price": 194.1634271
+  },
+  {
+    "Identifier": "23135106",
+    "Ticker": "AMZN ",
+    "Name": "Amazon.com Inc",
+    "Shares": 3963290,
+    "Price": 1872.111983
+  },
+  {
+    "Identifier": "64110W102",
+    "Ticker": "NTES ",
+    "Name": "NetEase Inc ADR",
+    "Shares": 620212,
+    "Price": 212.9587141
+  },
+  {
+    "Identifier": "45168D104",
+    "Ticker": "IDXX ",
+    "Name": "IDEXX Laboratories Inc",
+    "Shares": 703568,
+    "Price": 226.6355917
+  },
+  {
+    "Identifier": "458140100",
+    "Ticker": "INTC ",
+    "Name": "Intel Corp",
+    "Shares": 37468492,
+    "Price": 46.59319756
+  },
+  {
+    "Identifier": "958102105",
+    "Ticker": "WDC ",
+    "Name": "Western Digital Corp",
+    "Shares": 2367395,
+    "Price": 55.50201804
+  },
+  {
+    "Identifier": "192446102",
+    "Ticker": "CTSH ",
+    "Name": "Cognizant Technology Solutions Corp",
+    "Shares": 4714842,
+    "Price": 74.46093634
+  },
+  {
+    "Identifier": "75886F107",
+    "Ticker": "REGN ",
+    "Name": "Regeneron Pharmaceuticals Inc",
+    "Shares": 862698,
+    "Price": 387.9076455
+  },
+  {
+    "Identifier": "53015103",
+    "Ticker": "ADP ",
+    "Name": "Automatic Data Processing Inc",
+    "Shares": 3559834,
+    "Price": 149.5643617
+  },
+  {
+    "Identifier": "512807108",
+    "Ticker": "LRCX ",
+    "Name": "Lam Research Corp",
+    "Shares": 1280417,
+    "Price": 146.4459625
+  },
+  {
+    "Identifier": "02376R102",
+    "Ticker": "AAL ",
+    "Name": "American Airlines Group Inc",
+    "Shares": 3742033,
+    "Price": 36.02772878
+  },
+  {
+    "Identifier": "126408103",
+    "Ticker": "CSX ",
+    "Name": "CSX Corp",
+    "Shares": 6978604,
+    "Price": 73.84221114
+  },
+  {
+    "Identifier": "609207105",
+    "Ticker": "MDLZ ",
+    "Name": "Mondelez International Inc",
+    "Shares": 11917052,
+    "Price": 42.03591627
+  },
+  {
+    "Identifier": "32654105",
+    "Ticker": "ADI ",
+    "Name": "Analog Devices Inc",
+    "Shares": 3020151,
+    "Price": 86.33255423
+  },
+  {
+    "Identifier": "983919101",
+    "Ticker": "XLNX ",
+    "Name": "Xilinx Inc",
+    "Shares": 2055054,
+    "Price": 77.2579212
+  },
+  {
+    "Identifier": "375558103",
+    "Ticker": "GILD ",
+    "Name": "Gilead Sciences Inc",
+    "Shares": 10533997,
+    "Price": 75.55527593
+  },
+  {
+    "Identifier": "82481R106",
+    "Ticker": "SHPG ",
+    "Name": "Shire PLC ADR",
+    "Shares": 550674,
+    "Price": 171.4994716
+  },
+  {
+    "Identifier": "09062X103",
+    "Ticker": "BIIB ",
+    "Name": "Biogen Inc",
+    "Shares": 1637041,
+    "Price": 339.0311238
+  },
+  {
+    "Identifier": "G5480U120",
+    "Ticker": "LBTYK ",
+    "Name": "Liberty Global PLC",
+    "Shares": 4486089,
+    "Price": 25.78084162
+  },
+  {
+    "Identifier": "127387108",
+    "Ticker": "CDNS ",
+    "Name": "Cadence Design Systems Inc",
+    "Shares": 2297924,
+    "Price": 42.58715693
+  },
+  {
+    "Identifier": "88160R101",
+    "Ticker": "TSLA ",
+    "Name": "Tesla Inc",
+    "Shares": 1386131,
+    "Price": 259.6926986
+  },
+  {
+    "Identifier": "N07059210",
+    "Ticker": "ASML ",
+    "Name": "ASML Holding NV",
+    "Shares": 588358,
+    "Price": 182.6149215
+  },
+  {
+    "Identifier": "256746108",
+    "Ticker": "DLTR ",
+    "Name": "Dollar Tree Inc",
+    "Shares": 1933135,
+    "Price": 80.00636272
+  },
+  {
+    "Identifier": "595112103",
+    "Ticker": "MU ",
+    "Name": "Micron Technology Inc",
+    "Shares": 9424381,
+    "Price": 43.20583495
+  },
+  {
+    "Identifier": "931427108",
+    "Ticker": "WBA ",
+    "Name": "Walgreens Boots Alliance Inc",
+    "Shares": 8064252,
+    "Price": 71.79340378
+  },
+  {
+    "Identifier": "20030N101",
+    "Ticker": "CMCSA ",
+    "Name": "Comcast Corp",
+    "Shares": 37155584,
+    "Price": 34.2399853
+  },
+  {
+    "Identifier": "N59465109",
+    "Ticker": "MYL ",
+    "Name": "Mylan NV",
+    "Shares": 4189449,
+    "Price": 34.95707908
+  },
+  {
+    "Identifier": "83088M102",
+    "Ticker": "SWKS ",
+    "Name": "Skyworks Solutions Inc",
+    "Shares": 1454278,
+    "Price": 86.58619604
+  },
+  {
+    "Identifier": "594918104",
+    "Ticker": "MSFT ",
+    "Name": "Microsoft Corp",
+    "Shares": 62311262,
+    "Price": 111.0796937
+  },
+  {
+    "Identifier": "00507V109",
+    "Ticker": "ATVI ",
+    "Name": "Activision Blizzard Inc",
+    "Shares": 6195112,
+    "Price": 78.87281134
+  },
+  {
+    "Identifier": "45337C102",
+    "Ticker": "INCY ",
+    "Name": "Incyte Corp",
+    "Shares": 1727491,
+    "Price": 64.57286898
+  },
+  {
+    "Identifier": "15351109",
+    "Ticker": "ALXN ",
+    "Name": "Alexion Pharmaceuticals Inc",
+    "Shares": 1811023,
+    "Price": 129.6129591
+  },
+  {
+    "Identifier": "30303M102",
+    "Ticker": "FB ",
+    "Name": "Facebook Inc",
+    "Shares": 19597007,
+    "Price": 155.8530877
+  },
+  {
+    "Identifier": "278642103",
+    "Ticker": "EBAY ",
+    "Name": "eBay Inc",
+    "Shares": 8040991,
+    "Price": 31.91537585
+  },
+  {
+    "Identifier": "38222105",
+    "Ticker": "AMAT ",
+    "Name": "Applied Materials Inc",
+    "Shares": 7987701,
+    "Price": 36.92612555
+  },
+  {
+    "Identifier": "90130A101",
+    "Ticker": "FOXA ",
+    "Name": "Twenty-First Century Fox Inc",
+    "Shares": 8565039,
+    "Price": 45.70302599
+  },
+  {
+    "Identifier": "57772K101",
+    "Ticker": "MXIM ",
+    "Name": "Maxim Integrated Products Inc",
+    "Shares": 2259003,
+    "Price": 53.01509117
+  },
+  {
+    "Identifier": "92532F100",
+    "Ticker": "VRTX ",
+    "Name": "Vertex Pharmaceuticals Inc",
+    "Shares": 2076534,
+    "Price": 186.2034284
+  },
+  {
+    "Identifier": "30219G108",
+    "Ticker": "ESRX ",
+    "Name": "Express Scripts Holding Co",
+    "Shares": 4568534,
+    "Price": 95.12072144
+  },
+  {
+    "Identifier": "22943F100",
+    "Ticker": "CTRP ",
+    "Name": "Ctrip.com International Ltd ADR",
+    "Shares": 3785936,
+    "Price": 35.06765566
+  },
+  {
+    "Identifier": "151020104",
+    "Ticker": "CELG ",
+    "Name": "Celgene Corp",
+    "Shares": 5715545,
+    "Price": 86.4485714
+  },
+  {
+    "Identifier": "56752108",
+    "Ticker": "BIDU ",
+    "Name": "Baidu Inc ADR",
+    "Shares": 2281345,
+    "Price": 203.6840767
+  },
+  {
+    "Identifier": "67066G104",
+    "Ticker": "NVDA ",
+    "Name": "NVIDIA Corp",
+    "Shares": 4940507,
+    "Price": 267.3400726
+  },
+  {
+    "Identifier": "31162100",
+    "Ticker": "AMGN ",
+    "Name": "Amgen Inc",
+    "Shares": 5259567,
+    "Price": 202.0690201
+  },
+  {
+    "Identifier": "747525103",
+    "Ticker": "QCOM ",
+    "Name": "QUALCOMM Inc",
+    "Shares": 11937856,
+    "Price": 70.56835415
+  },
+  {
+    "Identifier": "12673P105",
+    "Ticker": "CA ",
+    "Name": "CA Inc",
+    "Shares": 3397987,
+    "Price": 43.7035074
+  },
+  {
+    "Identifier": "58733R102",
+    "Ticker": "MELI ",
+    "Name": "MercadoLibre Inc",
+    "Shares": 358777,
+    "Price": 331.8966935
+  },
+  {
+    "Identifier": "452327109",
+    "Ticker": "ILMN ",
+    "Name": "Illumina Inc",
+    "Shares": 1194424,
+    "Price": 326.5837759
+  },
+  {
+    "Identifier": "983134107",
+    "Ticker": "WYNN ",
+    "Name": "Wynn Resorts Ltd",
+    "Shares": 882803,
+    "Price": 119.3809944
+  },
+  {
+    "Identifier": "02079K107",
+    "Ticker": "GOOG ",
+    "Name": "Alphabet Inc",
+    "Shares": 2842957,
+    "Price": 1146.538287
+  },
+  {
+    "Identifier": "67103H107",
+    "Ticker": "ORLY ",
+    "Name": "O'Reilly Automotive Inc",
+    "Shares": 654818,
+    "Price": 337.5671561
+  },
+  {
+    "Identifier": "92345Y106",
+    "Ticker": "VRSK ",
+    "Name": "Verisk Analytics Inc",
+    "Shares": 1338563,
+    "Price": 118.1004181
+  },
+  {
+    "Identifier": "82968B103",
+    "Ticker": "SIRI ",
+    "Name": "Sirius XM Holdings Inc",
+    "Shares": 36469987,
+    "Price": 6.079777325
+  },
+  {
+    "Identifier": "G7945M107",
+    "Ticker": "STX ",
+    "Name": "Seagate Technology PLC",
+    "Shares": 2333721,
+    "Price": 46.3325736
+  },
+  {
+    "Identifier": "872590104",
+    "Ticker": "TMUS ",
+    "Name": "T-Mobile US Inc",
+    "Shares": 6884605,
+    "Price": 67.99161317
+  },
+  {
+    "Identifier": "30212P303",
+    "Ticker": "EXPE ",
+    "Name": "Expedia Group Inc",
+    "Shares": 1110338,
+    "Price": 122.6524266
+  },
+  {
+    "Identifier": "98138H101",
+    "Ticker": "WDAY ",
+    "Name": "Workday Inc",
+    "Shares": 1186291,
+    "Price": 138.4516952
+  },
+  {
+    "Identifier": "M22465104",
+    "Ticker": "CHKP ",
+    "Name": "Check Point Software Technologies Ltd",
+    "Shares": 1269539,
+    "Price": 114.2794353
+  },
+  {
+    "Identifier": "571903202",
+    "Ticker": "MAR ",
+    "Name": "Marriott International Inc/MD",
+    "Shares": 2819422,
+    "Price": 120.3926195
+  },
+  {
+    "Identifier": "337738108",
+    "Ticker": "FISV ",
+    "Name": "Fiserv Inc",
+    "Shares": 3290411,
+    "Price": 80.28149067
+  },
+  {
+    "Identifier": "177376100",
+    "Ticker": "CTXS ",
+    "Name": "Citrix Systems Inc",
+    "Shares": 1102266,
+    "Price": 106.7874724
+  },
+  {
+    "Identifier": "436440101",
+    "Ticker": "HOLX ",
+    "Name": "Hologic Inc",
+    "Shares": 2211340,
+    "Price": 40.2314886
+  },
+  {
+    "Identifier": "90130A200",
+    "Ticker": "FOX ",
+    "Name": "Twenty-First Century Fox Inc",
+    "Shares": 6488733,
+    "Price": 45.35099533
+  },
+  {
+    "Identifier": "22160K105",
+    "Ticker": "COST ",
+    "Name": "Costco Wholesale Corp",
+    "Shares": 3563501,
+    "Price": 216.8179972
+  },
+  {
+    "Identifier": "285512109",
+    "Ticker": "EA ",
+    "Name": "Electronic Arts Inc",
+    "Shares": 2476965,
+    "Price": 112.7245641
+  },
+  {
+    "Identifier": "500754106",
+    "Ticker": "KHC ",
+    "Name": "Kraft Heinz Co/The",
+    "Shares": 9907341,
+    "Price": 55.39818403
+  },
+  {
+    "Identifier": "482480100",
+    "Ticker": "KLAC ",
+    "Name": "KLA-Tencor Corp",
+    "Shares": 1268820,
+    "Price": 98.16341167
+  }
+ ]

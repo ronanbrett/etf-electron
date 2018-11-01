@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu / Item / Icon / Tasks</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Menu-/-Item-/-Icon-/-Tasks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21.5,3 L17,3 C17,1.34314575 15.6568542,0 14,0 C12.3431458,0 11,1.34314575 11,3 L6.5,3 C4.01471863,3 2,5.01471863 2,7.5 L2,22.5 C2,24.9852814 4.01471863,27 6.5,27 L21.5,27 C23.9852814,27 26,24.9852814 26,22.5 L26,7.5 C26,5.01471863 23.9852814,3 21.5,3 Z M24.5,22.5 C24.4980988,24.1560661 23.1560661,25.4980988 21.5,25.5 L6.5,25.5 C4.84393389,25.4980988 3.5019012,24.1560661 3.5,22.5 L3.5,7.5 C3.5019012,5.84393389 4.84393389,4.5019012 6.5,4.5 L8,4.5 C8,5.32842712 8.67157288,6 9.5,6 L18.5,6 C19.3284271,6 20,5.32842712 20,4.5 L21.5,4.5 C23.1560661,4.5019012 24.4980988,5.84393389 24.5,7.5 L24.5,22.5 Z M6,10 L8,10 L8,12 L6,12 L6,10 Z M9,10 L21,10 L21,12 L9,12 L9,10 Z M6,13 L8,13 L8,15 L6,15 L6,13 Z M9,13 L21,13 L21,15 L9,15 L9,13 Z M6,16 L8,16 L8,18 L6,18 L6,16 Z M9,16 L21,16 L21,18 L9,18 L9,16 Z M6,19 L8,19 L8,21 L6,21 L6,19 Z M9,19 L21,19 L21,21 L9,21 L9,19 Z" id="Shape" fill="currentColor" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,252 @@
+[
+  {
+    "securityId": "BYYHBM3",
+    "parValue": 170000,
+    "factor": 1,
+    "face": 170000,
+    "securityName": "AVOL ",
+    "coupon": 0.05,
+    "maturity": "2/15/24",
+    "dirtyPrice": 0.453541647058824
+  },
+  {
+    "securityId": "BYYQMZ0",
+    "parValue": 68000,
+    "factor": 1,
+    "face": 68000,
+    "securityName": "BWY ",
+    "coupon": 0.05,
+    "maturity": "4/15/24",
+    "dirtyPrice": 0.631875
+  },
+  {
+    "securityId": "BYY3499",
+    "parValue": 35000,
+    "factor": 1,
+    "face": 35000,
+    "securityName": "MD",
+    "coupon": 0.05,
+    "maturity": "12/1/23",
+    "dirtyPrice": 1.02610428571429
+  },
+  {
+    "securityId": "BYZN7B1",
+    "parValue": 65000,
+    "factor": 1,
+    "face": 65000,
+    "securityName": "EVHC ",
+    "coupon": 0.06,
+    "maturity": "12/1/24",
+    "dirtyPrice": 0.968576461538462
+  },
+  {
+    "securityId": "BDGMHW1",
+    "parValue": 150000,
+    "factor": 1,
+    "face": 150000,
+    "securityName": "RBACN ",
+    "coupon": 0.05,
+    "maturity": " 01/15/25",
+    "dirtyPrice": 0.832656266666667
+  },
+  {
+    "securityId": "BYQ4RQ8",
+    "parValue": 150000,
+    "factor": 1,
+    "face": 150000,
+    "securityName": "ARGID",
+    "coupon": 0.04,
+    "maturity": "9/15/22",
+    "dirtyPrice": 1.0088542
+  },
+  {
+    "securityId": "BYVP0H8",
+    "parValue": 21000,
+    "factor": 1,
+    "face": 21000,
+    "securityName": "AMC ",
+    "coupon": 0.05,
+    "maturity": "6/15/25",
+    "dirtyPrice": 1.02635428571429
+  },
+  {
+    "securityId": "BD9GGV2",
+    "parValue": 180000,
+    "factor": 1,
+    "face": 180000,
+    "securityName": "BCBCN ",
+    "coupon": 0.05,
+    "maturity": "4/1/25",
+    "dirtyPrice": 0.759013888888889
+  },
+  {
+    "securityId": "BYM4WW3",
+    "parValue": 15000,
+    "factor": 1,
+    "face": 15000,
+    "securityName": "CHTR ",
+    "coupon": 0.05,
+    "maturity": "5/1/27",
+    "dirtyPrice": 0.379128666666667
+  },
+  {
+    "securityId": "BYNHPW2",
+    "parValue": 100000,
+    "factor": 1,
+    "face": 100000,
+    "securityName": "POST ",
+    "coupon": 0.05,
+    "maturity": "3/1/25",
+    "dirtyPrice": 0.1385972
+  },
+  {
+    "securityId": "BYPL1Z7",
+    "parValue": 100000,
+    "factor": 1,
+    "face": 100000,
+    "securityName": "NCLH",
+    "coupon": 0.04,
+    "maturity": "12/15/21",
+    "dirtyPrice": 0.7717708
+  },
+  {
+    "securityId": "BYZNV20",
+    "parValue": 100000,
+    "factor": 1,
+    "face": 100000,
+    "securityName": "TMUS ",
+    "coupon": 0.04,
+    "maturity": " 04/15/22",
+    "dirtyPrice": 0.6925
+  },
+  {
+    "securityId": "BYXR447",
+    "parValue": 100000,
+    "factor": 1,
+    "face": 100000,
+    "securityName": "NE ",
+    "coupon": 0.07,
+    "maturity": " 01/15/24",
+    "dirtyPrice": 0.7165625
+  },
+  {
+    "securityId": "BYYHBL2",
+    "parValue": 100000,
+    "factor": 1,
+    "face": 100000,
+    "securityName": "AVOL ",
+    "coupon": 0.05,
+    "maturity": "8/15/22",
+    "dirtyPrice": 0.5153125
+  },
+  {
+    "securityId": "BD9GGS9",
+    "parValue": 100000,
+    "factor": 1,
+    "face": 100000,
+    "securityName": "EQIX",
+    "coupon": 0.05,
+    "maturity": "5/15/27",
+    "dirtyPrice": 0.8147396
+  },
+  {
+    "securityId": "BYXJZC8",
+    "parValue": 45000,
+    "factor": 1,
+    "face": 45000,
+    "securityName": "VGR",
+    "coupon": 0.06,
+    "maturity": "2/1/25",
+    "dirtyPrice": 0.332746444444444
+  },
+  {
+    "securityId": "BDVPW97",
+    "parValue": 20000,
+    "factor": 1,
+    "face": 20000,
+    "securityName": "HARCLA ",
+    "coupon": 0.08,
+    "maturity": "8/15/22",
+    "dirtyPrice": 0.274427
+  },
+  {
+    "securityId": "BYYQJJ3",
+    "parValue": 50000,
+    "factor": 1,
+    "face": 50000,
+    "securityName": "BTU ",
+    "coupon": 0.06,
+    "maturity": " 03/31/25",
+    "dirtyPrice": 0.073125
+  },
+  {
+    "securityId": "BF08257",
+    "parValue": 50000,
+    "factor": 1,
+    "face": 50000,
+    "securityName": "COMM ",
+    "coupon": 0.05,
+    "maturity": " 03/15/27",
+    "dirtyPrice": 1.0104166
+  },
+  {
+    "securityId": "BD6NG16",
+    "parValue": 50000,
+    "factor": 1,
+    "face": 50000,
+    "securityName": "THC ",
+    "coupon": 0.07,
+    "maturity": " 01/01/22",
+    "dirtyPrice": 0.9060416
+  },
+  {
+    "securityId": "BYQ4KV4",
+    "parValue": 50000,
+    "factor": 1,
+    "face": 50000,
+    "securityName": "INTEL",
+    "coupon": 0.12,
+    "maturity": " 04/01/22",
+    "dirtyPrice": 0.6822916
+  },
+  {
+    "securityId": "BYQ2NR5",
+    "parValue": 50000,
+    "factor": 1,
+    "face": 50000,
+    "securityName": "BYD ",
+    "coupon": 0.06,
+    "maturity": "4/1/26",
+    "dirtyPrice": 0.572948
+  },
+  {
+    "securityId": "BD899Z7",
+    "parValue": 50000,
+    "factor": 1,
+    "face": 50000,
+    "securityName": "MGMGPO ",
+    "coupon": 0.05,
+    "maturity": " 05/01/24",
+    "dirtyPrice": 0.1920312
+  },
+  {
+    "securityId": "BYWW6S1",
+    "parValue": 25000,
+    "factor": 1,
+    "face": 25000,
+    "securityName": "RCOLIN ",
+    "coupon": 0.07,
+    "maturity": "4/1/25",
+    "dirtyPrice": 0.886882
+  },
+  {
+    "securityId": "BF0BJ99",
+    "parValue": 140000,
+    "factor": 1,
+    "face": 140000,
+    "securityName": "HHC ",
+    "coupon": 0.05,
+    "maturity": " 03/15/25",
+    "dirtyPrice": 0.948697928571429
+  }
+ ]

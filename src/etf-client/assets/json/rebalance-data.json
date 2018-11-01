@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "00912X302 ",
+    "ticker": "AL ",
+    "name": "Air Lease Corp ",
+    "shares": 4437,
+    "price": 43.1220351588911,
+    "marketValue": 191332.47
+  },
+  {
+    "id": "05544A109 ",
+    "ticker": "BGSF ",
+    "name": "BG Staffing Inc ",
+    "shares": 375,
+    "price": 20.76928,
+    "marketValue": 7788.48
+  },
+  {
+    "id": "192479103",
+    "ticker": "COHR ",
+    "name": "Coherent Inc ",
+    "shares": 1160,
+    "price": 166.123306034483,
+    "marketValue": 192703.035
+  },
+  {
+    "id": "298736109",
+    "ticker": "EEFT ",
+    "name": "Euronet Worldwide Inc ",
+    "shares": 2457,
+    "price": 80.8173931623932,
+    "marketValue": 198568.335
+  },
+  {
+    "id": "679580100",
+    "ticker": "ODFL ",
+    "name": "Old Dominion Freight Line Inc ",
+    "shares": 3515,
+    "price": 138.274839260313,
+    "marketValue": 486036.06
+  },
+  {
+    "id": "640491106",
+    "ticker": "NEOG ",
+    "name": "Neogen Corp ",
+    "shares": 3788,
+    "price": 71.889147967265,
+    "marketValue": 272316.0925
+  },
+  {
+    "id": "49714P108 ",
+    "ticker": "KNSL ",
+    "name": "Kinsale Capital Group Inc ",
+    "shares": 750,
+    "price": 50.81265,
+    "marketValue": 38109.4875
+  },
+  {
+    "id": "30506109",
+    "ticker": "AMWD ",
+    "name": "American Woodmark Corp ",
+    "shares": 750,
+    "price": 84.28875,
+    "marketValue": 63216.5625
+  },
+  {
+    "id": "58844R108 ",
+    "ticker": "MBIN ",
+    "name": "Merchants Bancorp/IN ",
+    "shares": 1023,
+    "price": 22.9727272727273,
+    "marketValue": 23501.1
+  },
+  {
+    "id": "2567105",
+    "ticker": "ABAX ",
+    "name": "Abaxis Inc ",
+    "shares": 1671,
+    "price": 68.5982719928187,
+    "marketValue": 114627.7125
+  },
+  {
+    "id": "89531P105 ",
+    "ticker": "TREX ",
+    "name": "Trex Co Inc ",
+    "shares": 1261,
+    "price": 105.875013877875,
+    "marketValue": 133508.3925
+  },
+  {
+    "id": "862121100",
+    "ticker": "STOR ",
+    "name": "STORE Capital Corp ",
+    "shares": 2319,
+    "price": 25.9048900388098,
+    "marketValue": 60073.44
+  },
+  {
+    "id": "210226106",
+    "ticker": "CTO ",
+    "name": "Consolidated-Tomoka Land Co ",
+    "shares": 66,
+    "price": 61.0439772727273,
+    "marketValue": 4028.9025
+  },
+  {
+    "id": "635017106",
+    "ticker": "FIZZ ",
+    "name": "National Beverage Corp ",
+    "shares": 885,
+    "price": 87.4407372881356,
+    "marketValue": 77385.0525
+  },
+  {
+    "id": "146229109",
+    "ticker": "CRI ",
+    "name": "Carter's Inc ",
+    "shares": 1397,
+    "price": 103.959207229778,
+    "marketValue": 145231.0125
+  },
+  {
+    "id": "922475108",
+    "ticker": "VEEV ",
+    "name": "Veeva Systems Inc ",
+    "shares": 8565,
+    "price": 73.7539191476941,
+    "marketValue": 631702.3175
+  },
+  {
+    "id": "12685J105 ",
+    "ticker": "CABO ",
+    "name": "Cable One Inc ",
+    "shares": 168,
+    "price": 628.30625,
+    "marketValue": 105555.45
+  },
+  {
+    "id": "740367404",
+    "ticker": "PFBC ",
+    "name": "Preferred Bank/Los Angeles CA ",
+    "shares": 475,
+    "price": 63.3108,
+    "marketValue": 30072.63
+  },
+  {
+    "id": "35352P104 ",
+    "ticker": "FSB ",
+    "name": "Franklin Financial Network Inc ",
+    "shares": 475,
+    "price": 34.0641,
+    "marketValue": 16180.4475
+  },
+  {
+    "id": "45778Q107 ",
+    "ticker": "NSP ",
+    "name": "Insperity Inc ",
+    "shares": 1772,
+    "price": 85.1866125846501,
+    "marketValue": 150950.6775
+  },
+  {
+    "id": "26969P108 ",
+    "ticker": "EXP ",
+    "name": "Eagle Materials Inc ",
+    "shares": 3103,
+    "price": 102.074401385756,
+    "marketValue": 316736.8675
+  },
+  {
+    "id": "128246105",
+    "ticker": "CVGW ",
+    "name": "Calavo Growers Inc ",
+    "shares": 338,
+    "price": 94.3139201183432,
+    "marketValue": 31878.105
+  },
+  {
+    "id": "05335B100 ",
+    "ticker": "AUTO ",
+    "name": "AutoWeb Inc ",
+    "shares": 611,
+    "price": 3.75001227495908,
+    "marketValue": 2291.2575
+  },
+  {
+    "id": "L44385109 ",
+    "ticker": "GLOB ",
+    "name": "Globant SA ",
+    "shares": 1635,
+    "price": 47.1118944954128,
+    "marketValue": 77027.9475
+  },
+  {
+    "id": "65158N102 ",
+    "ticker": "NMRK ",
+    "name": "Newmark Group Inc ",
+    "shares": 1635,
+    "price": 14.2340504587156,
+    "marketValue": 23272.6725
+  },
+  {
+    "id": "44109J106 ",
+    "ticker": "TWNK ",
+    "name": "Hostess Brands Inc ",
+    "shares": 1908,
+    "price": 13.5258490566038,
+    "marketValue": 25807.32
+  },
+  {
+    "id": "70432V102 ",
+    "ticker": "PAYC ",
+    "name": "Paycom Software Inc ",
+    "shares": 2693,
+    "price": 108.59088934274,
+    "marketValue": 292435.265
+  },
+  {
+    "id": "698813102",
+    "ticker": "PZZA ",
+    "name": "Papa John's International Inc ",
+    "shares": 986,
+    "price": 58.9718762677485,
+    "marketValue": 58146.27
+  },
+  {
+    "id": "258278100",
+    "ticker": "DORM ",
+    "name": "Dorman Products Inc ",
+    "shares": 986,
+    "price": 65.1662905679513,
+    "marketValue": 64253.9625
+  },
+  {
+    "id": "265504100",
+    "ticker": "DNKN ",
+    "name": "Dunkin' Brands Group Inc ",
+    "shares": 2419,
+    "price": 63.939791236048,
+    "marketValue": 154670.355
+  },
+  {
+    "id": "122017106",
+    "ticker": "BURL ",
+    "name": "Burlington Stores Inc ",
+    "shares": 2009,
+    "price": 135.948780487805,
+    "marketValue": 273121.1
+  },
+  {
+    "id": "97488100",
+    "ticker": "BOJA ",
+    "name": "Bojangles' Inc ",
+    "shares": 1087,
+    "price": 15.1120791168353,
+    "marketValue": 16426.83
+  },
+  {
+    "id": "30257X104 ",
+    "ticker": "FBK ",
+    "name": "FB Financial Corp ",
+    "shares": 1087,
+    "price": 41.1865639374425,
+    "marketValue": 44769.795
+  },
+  {
+    "id": "381370105",
+    "ticker": "GV ",
+    "name": "Goldfield Corp ",
+    "shares": 1087,
+    "price": 4.53876264949402,
+    "marketValue": 4933.635
+  },
+  {
+    "id": "87162W100 ",
+    "ticker": "SNX ",
+    "name": "SYNNEX Corp ",
+    "shares": 1872,
+    "price": 105.246374198718,
+    "marketValue": 197021.2125
+  },
+  {
+    "id": "775711104",
+    "ticker": "ROL ",
+    "name": "Rollins Inc ",
+    "shares": 9313,
+    "price": 50.1951846880704,
+    "marketValue": 467467.755
+  },
+  {
+    "id": "30263Y104 ",
+    "ticker": "FSBW ",
+    "name": "FS Bancorp Inc ",
+    "shares": 131,
+    "price": 57.7940839694656,
+    "marketValue": 7571.025
+  },
+  {
+    "id": "90138F102 ",
+    "ticker": "TWLO ",
+    "name": "Twilio Inc ",
+    "shares": 3203,
+    "price": 43.9796909147674,
+    "marketValue": 140866.95
+  },
+  {
+    "id": "800013104",
+    "ticker": "SAFM ",
+    "name": "Sanderson Farms Inc ",
+    "shares": 438,
+    "price": 110.781712328767,
+    "marketValue": 48522.39
+  },
+  {
+    "id": "866674104",
+    "ticker": "SUI ",
+    "name": "Sun Communities Inc ",
+    "shares": 950,
+    "price": 94.46325,
+    "marketValue": 89740.0875
+  },
+  {
+    "id": "42727J102 ",
+    "ticker": "HRTG ",
+    "name": "Heritage Insurance Holdings Inc ",
+    "shares": 950,
+    "price": 15.07275,
+    "marketValue": 14319.1125
+  },
+  {
+    "id": "441593100",
+    "ticker": "HLI ",
+    "name": "Houlihan Lokey Inc ",
+    "shares": 950,
+    "price": 45.9249,
+    "marketValue": 43628.655
+  },
+  {
+    "id": "866082100",
+    "ticker": "INN ",
+    "name": "Summit Hotel Properties Inc ",
+    "shares": 1223,
+    "price": 14.5236978740801,
+    "marketValue": 17762.4825
+  },
+  {
+    "id": "852857200",
+    "ticker": "STMP ",
+    "name": "Stamps.com Inc ",
+    "shares": 813,
+    "price": 239.649068265683,
+    "marketValue": 194834.6925
+  },
+  {
+    "id": "211171103",
+    "ticker": "CBPX ",
+    "name": "Continental Building Products Inc ",
+    "shares": 1598,
+    "price": 27.8301251564456,
+    "marketValue": 44472.54
+  },
+  {
+    "id": "596278101",
+    "ticker": "MIDD ",
+    "name": "Middleby Corp ",
+    "shares": 2383,
+    "price": 129.282534620227,
+    "marketValue": 308080.28
+  },
+  {
+    "id": "40413106",
+    "ticker": "ANET ",
+    "name": "Arista Networks Inc ",
+    "shares": 3441,
+    "price": 252.990969921534,
+    "marketValue": 870541.9275
+  },
+  {
+    "id": "72147K108 ",
+    "ticker": "PPC ",
+    "name": "Pilgrim's Pride Corp ",
+    "shares": 4738,
+    "price": 20.997396053187,
+    "marketValue": 99485.6625
+  },
+  {
+    "id": "371901109",
+    "ticker": "GNTX ",
+    "name": "Gentex Corp ",
+    "shares": 8117,
+    "price": 22.7329721572009,
+    "marketValue": 184523.535
+  },
+  {
+    "id": "44980X109 ",
+    "ticker": "IPGP ",
+    "name": "IPG Photonics Corp ",
+    "shares": 2519,
+    "price": 234.565101230647,
+    "marketValue": 590869.49
+  },
+  {
+    "id": "89055F103 ",
+    "ticker": "BLD ",
+    "name": "TopBuild Corp ",
+    "shares": 1051,
+    "price": 77.5354567078972,
+    "marketValue": 81489.765
+  },
+  {
+    "id": "267475101",
+    "ticker": "DY ",
+    "name": "Dycom Industries Inc ",
+    "shares": 1324,
+    "price": 106.413058912387,
+    "marketValue": 140890.89
+  },
+  {
+    "id": "87357P100 ",
+    "ticker": "TCMD ",
+    "name": "Tactile Systems Technology Inc ",
+    "shares": 1324,
+    "price": 36.8276397280967,
+    "marketValue": 48759.795
+  },
+  {
+    "id": "562750109",
+    "ticker": "MANH ",
+    "name": "Manhattan Associates Inc ",
+    "shares": 3167,
+    "price": 43.6704681086201,
+    "marketValue": 138304.3725
+  },
+  {
+    "id": "892356106",
+    "ticker": "TSCO ",
+    "name": "Tractor Supply Co ",
+    "shares": 3678,
+    "price": 66.642926182708,
+    "marketValue": 245112.6825
+  },
+  {
+    "id": "25264R207 ",
+    "ticker": "DHIL ",
+    "name": "Diamond Hill Investment Group Inc ",
+    "shares": 128,
+    "price": 191.114765625,
+    "marketValue": 24462.69
+  },
+  {
+    "id": "14174T107 ",
+    "ticker": "CTRE ",
+    "name": "CareTrust REIT Inc ",
+    "shares": 913,
+    "price": 14.0545892661555,
+    "marketValue": 12831.84
+  },
+  {
+    "id": "400110102",
+    "ticker": "GRUB ",
+    "name": "GrubHub Inc ",
+    "shares": 4053,
+    "price": 101.934190106094,
+    "marketValue": 413139.2725
+  },
+  {
+    "id": "171604101",
+    "ticker": "CHUY ",
+    "name": "Chuy's Holdings Inc ",
+    "shares": 503,
+    "price": 29.9745775347913,
+    "marketValue": 15077.2125
+  },
+  {
+    "id": "743713109",
+    "ticker": "PRLB ",
+    "name": "Proto Labs Inc ",
+    "shares": 1151,
+    "price": 120.348245004344,
+    "marketValue": 138520.83
+  },
+  {
+    "id": "682189105",
+    "ticker": "ON ",
+    "name": "ON Semiconductor Corp ",
+    "shares": 19822,
+    "price": 22.9171540460095,
+    "marketValue": 454263.8275
+  },
+  {
+    "id": "38526M106 ",
+    "ticker": "LOPE ",
+    "name": "Grand Canyon Education Inc ",
+    "shares": 1424,
+    "price": 107.111465941011,
+    "marketValue": 152526.7275
+  },
+  {
+    "id": "90385D107 ",
+    "ticker": "ULTI ",
+    "name": "Ultimate Software Group Inc ",
+    "shares": 1424,
+    "price": 258.715400280899,
+    "marketValue": 368410.73
+  },
+  {
+    "id": "53803X105 ",
+    "ticker": "LOB ",
+    "name": "Live Oak Bancshares Inc ",
+    "shares": 1424,
+    "price": 28.5282198033708,
+    "marketValue": 40624.185
+  },
+  {
+    "id": "896288107",
+    "ticker": "TNET ",
+    "name": "TriNet Group Inc ",
+    "shares": 2994,
+    "price": 52.2391482965932,
+    "marketValue": 156404.01
+  },
+  {
+    "id": "92532W103 ",
+    "ticker": "VSM ",
+    "name": "Versum Materials Inc ",
+    "shares": 5076,
+    "price": 36.4985564420804,
+    "marketValue": 185266.6725
+  },
+  {
+    "id": "45384B106 ",
+    "ticker": "IBTX ",
+    "name": "Independent Bank Group Inc ",
+    "shares": 1014,
+    "price": 74.4632766272189,
+    "marketValue": 75505.7625
+  },
+  {
+    "id": "87166B102 ",
+    "ticker": "SYNH ",
+    "name": "Syneos Health Inc ",
+    "shares": 7670,
+    "price": 39.4484403520209,
+    "marketValue": 302569.5375
+  },
+  {
+    "id": "74758T303 ",
+    "ticker": "QLYS ",
+    "name": "Qualys Inc ",
+    "shares": 1799,
+    "price": 75.7600972762646,
+    "marketValue": 136292.415
+  },
+  {
+    "id": "00508Y102 ",
+    "ticker": "AYI ",
+    "name": "Acuity Brands Inc ",
+    "shares": 1799,
+    "price": 109.944571984436,
+    "marketValue": 197790.285
+  },
+  {
+    "id": "444144109",
+    "ticker": "HDSN ",
+    "name": "Hudson Technologies Inc ",
+    "shares": 1799,
+    "price": 3.99998054474708,
+    "marketValue": 7195.965
+  },
+  {
+    "id": "745867101",
+    "ticker": "PHM ",
+    "name": "PulteGroup Inc ",
+    "shares": 8455,
+    "price": 30.9325280898876,
+    "marketValue": 261534.525
+  },
+  {
+    "id": "05591B109 ",
+    "ticker": "BMCH ",
+    "name": "BMC Stock Holdings Inc ",
+    "shares": 2857,
+    "price": 17.7057122856143,
+    "marketValue": 50585.22
+  },
+  {
+    "id": "955306105",
+    "ticker": "WST ",
+    "name": "West Pharmaceutical Services Inc ",
+    "shares": 5451,
+    "price": 87.829004769767,
+    "marketValue": 478755.905
+  },
+  {
+    "id": "86614U100 ",
+    "ticker": "SUM ",
+    "name": "Summit Materials Inc ",
+    "shares": 7021,
+    "price": 29.585869890329,
+    "marketValue": 207722.3925
+  },
+  {
+    "id": "1744101",
+    "ticker": "AMN ",
+    "name": "AMN Healthcare Services Inc ",
+    "shares": 3505,
+    "price": 53.765392296719,
+    "marketValue": 188447.7
+  },
+  {
+    "id": "928563402",
+    "ticker": "VMW ",
+    "name": "VMware Inc ",
+    "shares": 4802,
+    "price": 136.159625156185,
+    "marketValue": 653838.52
+  },
+  {
+    "id": "91359V107 ",
+    "ticker": "UVE ",
+    "name": "Universal Insurance Holdings Inc ",
+    "shares": 1252,
+    "price": 33.166875,
+    "marketValue": 41524.9275
+  },
+  {
+    "id": "60786M105 ",
+    "ticker": "MC ",
+    "name": "Moelis & Co ",
+    "shares": 1252,
+    "price": 55.0122843450479,
+    "marketValue": 68875.38
+  },
+  {
+    "id": "88339J105 ",
+    "ticker": "TTD ",
+    "name": "Trade Desk Inc ",
+    "shares": 1525,
+    "price": 50.7626114754098,
+    "marketValue": 77412.9825
+  },
+  {
+    "id": "64828T201 ",
+    "ticker": "NRZ ",
+    "name": "New Residential Investment Corp ",
+    "shares": 12345,
+    "price": 17.9251032806804,
+    "marketValue": 221285.4
+  },
+  {
+    "id": "56117J100 ",
+    "ticker": "MBUU ",
+    "name": "Malibu Boats Inc ",
+    "shares": 603,
+    "price": 41.5558830845771,
+    "marketValue": 25058.1975
+  },
+  {
+    "id": "16150R104 ",
+    "ticker": "CCF ",
+    "name": "Chase Corp ",
+    "shares": 603,
+    "price": 115.1607960199,
+    "marketValue": 69441.96
+  },
+  {
+    "id": "229663109",
+    "ticker": "CUBE ",
+    "name": "CubeSmart ",
+    "shares": 2173,
+    "price": 30.0645490105844,
+    "marketValue": 65330.265
+  },
+  {
+    "id": "164651101",
+    "ticker": "CHMI ",
+    "name": "Cherry Hill Mortgage Investment Corp ",
+    "shares": 466,
+    "price": 17.9657027896996,
+    "marketValue": 8372.0175
+  },
+  {
+    "id": "50189K103 ",
+    "ticker": "LCII ",
+    "name": "LCI Industries ",
+    "shares": 739,
+    "price": 94.1645399188092,
+    "marketValue": 69587.595
+  },
+  {
+    "id": "896790",
+    "ticker": "TBK ",
+    "name": "Triumph Bancorp Inc ",
+    "shares": 739,
+    "price": 39.5504025710419,
+    "marketValue": 29227.7475
+  },
+  {
+    "id": "550819106",
+    "ticker": "LDL ",
+    "name": "Lydall Inc ",
+    "shares": 739,
+    "price": 40.5978450608931,
+    "marketValue": 30001.8075
+  },
+  {
+    "id": "902252105",
+    "ticker": "TYL ",
+    "name": "Tyler Technologies Inc ",
+    "shares": 1763,
+    "price": 222.695452353942,
+    "marketValue": 392612.0825
+  },
+  {
+    "id": "02156B103 ",
+    "ticker": "AYX ",
+    "name": "Alteryx Inc ",
+    "shares": 1114,
+    "price": 33.795013464991,
+    "marketValue": 37647.645
+  },
+  {
+    "id": "23204G100 ",
+    "ticker": "CUBI ",
+    "name": "Customers Bancorp Inc ",
+    "shares": 1114,
+    "price": 29.3465574506284,
+    "marketValue": 32692.065
+  },
+  {
+    "id": "536797103",
+    "ticker": "LAD ",
+    "name": "Lithia Motors Inc ",
+    "shares": 704,
+    "price": 95.9895383522727,
+    "marketValue": 67576.635
+  },
+  {
+    "id": "70932B101 ",
+    "ticker": "PFSI ",
+    "name": "PennyMac Financial Services Inc ",
+    "shares": 840,
+    "price": 20.099625,
+    "marketValue": 16883.685
+  },
+  {
+    "id": "23586100",
+    "ticker": "UHAL ",
+    "name": "AMERCO ",
+    "shares": 840,
+    "price": 332.909961309524,
+    "marketValue": 279644.3675
+  },
+  {
+    "id": "477839104",
+    "ticker": "JBT ",
+    "name": "John Bean Technologies Corp ",
+    "shares": 1352,
+    "price": 87.1816475591716,
+    "marketValue": 117869.5875
+  },
+  {
+    "id": "33829M101 ",
+    "ticker": "FIVE ",
+    "name": "Five Below Inc ",
+    "shares": 1625,
+    "price": 71.6205,
+    "marketValue": 116383.3125
+  },
+  {
+    "id": "132011107",
+    "ticker": "CBM ",
+    "name": "Cambrex Corp ",
+    "shares": 2410,
+    "price": 49.2268319502075,
+    "marketValue": 118636.665
+  },
+  {
+    "id": "G4705A100 ",
+    "ticker": "ICLR ",
+    "name": "ICON PLC ",
+    "shares": 3980,
+    "price": 121.523150753769,
+    "marketValue": 483662.14
+  },
+  {
+    "id": "93627C101 ",
+    "ticker": "HCC ",
+    "name": "Warrior Met Coal Inc ",
+    "shares": 4355,
+    "price": 26.5534270952928,
+    "marketValue": 115640.175
+  },
+  {
+    "id": "591774104",
+    "ticker": "MCB ",
+    "name": "Metropolitan Bank Holding Corp ",
+    "shares": 293,
+    "price": 48.5881228668942,
+    "marketValue": 14236.32
+  },
+  {
+    "id": "703343103",
+    "ticker": "PATK ",
+    "name": "Patrick Industries Inc ",
+    "shares": 1078,
+    "price": 58.8525,
+    "marketValue": 63442.995
+  },
+  {
+    "id": "35255108",
+    "ticker": "ANIK ",
+    "name": "Anika Therapeutics Inc ",
+    "shares": 1078,
+    "price": 37.9253571428571,
+    "marketValue": 40883.535
+  },
+  {
+    "id": "56155L108 ",
+    "ticker": "TUSK ",
+    "name": "Mammoth Energy Services Inc ",
+    "shares": 1078,
+    "price": 32.6584090909091,
+    "marketValue": 35205.765
+  },
+  {
+    "id": "82968B103 ",
+    "ticker": "SIRI ",
+    "name": "Sirius XM Holdings Inc ",
+    "shares": 132219,
+    "price": 6.7267712847624,
+    "marketValue": 889406.9725
+  },
+  {
+    "id": "49428J109 ",
+    "ticker": "KE ",
+    "name": "Kimball Electronics Inc ",
+    "shares": 1243,
+    "price": 17.7551790024135,
+    "marketValue": 22069.6875
+  },
+  {
+    "id": "632347100",
+    "ticker": "NATH ",
+    "name": "Nathan's Famous Inc ",
+    "shares": 122,
+    "price": 81.7459426229508,
+    "marketValue": 9973.005
+  },
+  {
+    "id": "45780R101 ",
+    "ticker": "IBP ",
+    "name": "Installed Building Products Inc ",
+    "shares": 941,
+    "price": 59.600890010627,
+    "marketValue": 56084.4375
+  },
+  {
+    "id": "268948106",
+    "ticker": "EGBN ",
+    "name": "Eagle Bancorp Inc ",
+    "shares": 1214,
+    "price": 60.1992071663921,
+    "marketValue": 73081.8375
+  },
+  {
+    "id": "477143101",
+    "ticker": "JBLU ",
+    "name": "JetBlue Airways Corp ",
+    "shares": 13741,
+    "price": 19.2018568517575,
+    "marketValue": 263852.715
+  },
+  {
+    "id": "09227Q100 ",
+    "ticker": "BLKB ",
+    "name": "Blackbaud Inc ",
+    "shares": 2238,
+    "price": 101.834587801609,
+    "marketValue": 227905.8075
+  },
+  {
+    "id": "360206",
+    "ticker": "AAON ",
+    "name": "AAON Inc ",
+    "shares": 2238,
+    "price": 29.6259282841823,
+    "marketValue": 66302.8275
+  },
+  {
+    "id": "513272104",
+    "ticker": "LW ",
+    "name": "Lamb Weston Holdings Inc ",
+    "shares": 2784,
+    "price": 66.044603987069,
+    "marketValue": 183868.1775
+  },
+  {
+    "id": "77543R102 ",
+    "ticker": "ROKU ",
+    "name": "Roku Inc ",
+    "shares": 531,
+    "price": 33.0865677966102,
+    "marketValue": 17568.9675
+  },
+  {
+    "id": "30049A107 ",
+    "ticker": "EPM ",
+    "name": "Evolution Petroleum Corp ",
+    "shares": 804,
+    "price": 9.17724813432836,
+    "marketValue": 7378.5075
+  },
+  {
+    "id": "29276K101 ",
+    "ticker": "EGC ",
+    "name": "Energy XXI Gulf Coast Inc ",
+    "shares": 804,
+    "price": 7.00235074626866,
+    "marketValue": 5629.89
+  },
+  {
+    "id": "02874P103 ",
+    "ticker": "AOBC ",
+    "name": "American Outdoor Brands Corp ",
+    "shares": 1589,
+    "price": 10.6435572687225,
+    "marketValue": 16912.6125
+  },
+  {
+    "id": "199908104",
+    "ticker": "FIX ",
+    "name": "Comfort Systems USA Inc ",
+    "shares": 1589,
+    "price": 42.8429074889868,
+    "marketValue": 68077.38
+  },
+  {
+    "id": "830566105",
+    "ticker": "SKX ",
+    "name": "Skechers U.S.A. Inc ",
+    "shares": 3944,
+    "price": 28.9773244168357,
+    "marketValue": 114286.5675
+  },
+  {
+    "id": "4010000000",
+    "ticker": "AGX ",
+    "name": "Argan Inc ",
+    "shares": 667,
+    "price": 38.3536506746627,
+    "marketValue": 25581.885
+  },
+  {
+    "id": "87266J104 ",
+    "ticker": "TPIC ",
+    "name": "TPI Composites Inc ",
+    "shares": 1452,
+    "price": 26.6934297520661,
+    "marketValue": 38758.86
+  },
+  {
+    "id": "499049104",
+    "ticker": "KNX ",
+    "name": "Knight-Swift Transportation Holdings Inc ",
+    "shares": 7596,
+    "price": 39.057378883623,
+    "marketValue": 296679.85
+  },
+  {
+    "id": "891092108",
+    "ticker": "TTC ",
+    "name": "Toro Co ",
+    "shares": 4592,
+    "price": 59.4882888719512,
+    "marketValue": 273170.2225
+  },
+  {
+    "id": "479167108",
+    "ticker": "JOUT ",
+    "name": "Johnson Outdoors Inc ",
+    "shares": 257,
+    "price": 72.8873638132296,
+    "marketValue": 18732.0525
+  },
+  {
+    "id": "819047101",
+    "ticker": "SHAK ",
+    "name": "Shake Shack Inc ",
+    "shares": 769,
+    "price": 56.9573797139142,
+    "marketValue": 43800.225
+  },
+  {
+    "id": "63546L102 ",
+    "ticker": "NCOM ",
+    "name": "National Commerce Corp ",
+    "shares": 530,
+    "price": 44.5393160377359,
+    "marketValue": 23605.8375
+  },
+  {
+    "id": "882681109",
+    "ticker": "TXRH ",
+    "name": "Texas Roadhouse Inc ",
+    "shares": 2100,
+    "price": 63.191625,
+    "marketValue": 132702.4125
+  },
+  {
+    "id": "44967H101 ",
+    "ticker": "ILG ",
+    "name": "ILG Inc ",
+    "shares": 3670,
+    "price": 33.7255565395095,
+    "marketValue": 123772.7925
+  },
+  {
+    "id": "42226A107 ",
+    "ticker": "HQY ",
+    "name": "HealthEquity Inc ",
+    "shares": 4455,
+    "price": 69.4733625140292,
+    "marketValue": 309503.83
+  },
+  {
+    "id": "655663102",
+    "ticker": "NDSN ",
+    "name": "Nordson Corp ",
+    "shares": 2475,
+    "price": 131.387852525252,
+    "marketValue": 325184.935
+  },
+  {
+    "id": "29414B104 ",
+    "ticker": "EPAM ",
+    "name": "EPAM Systems Inc ",
+    "shares": 2475,
+    "price": 118.244773737374,
+    "marketValue": 292655.815
+  },
+  {
+    "id": "45780L104 ",
+    "ticker": "INGN ",
+    "name": "Inogen Inc ",
+    "shares": 1553,
+    "price": 170.562223116549,
+    "marketValue": 264883.1325
+  },
+  {
+    "id": "885160101",
+    "ticker": "THO ",
+    "name": "Thor Industries Inc ",
+    "shares": 1553,
+    "price": 108.278528654218,
+    "marketValue": 168156.555
+  },
+  {
+    "id": "G037AX101 ",
+    "ticker": "AMBA ",
+    "name": "Ambarella Inc ",
+    "shares": 1553,
+    "price": 49.7054314230522,
+    "marketValue": 77192.535
+  },
+  {
+    "id": "350392106",
+    "ticker": "FBM ",
+    "name": "Foundation Building Materials Inc ",
+    "shares": 1826,
+    "price": 14.1643907447974,
+    "marketValue": 25864.1775
+  },
+  {
+    "id": "03823U102 ",
+    "ticker": "AAOI ",
+    "name": "Applied Optoelectronics Inc ",
+    "shares": 904,
+    "price": 33.5563855088496,
+    "marketValue": 30334.9725
+  },
+  {
+    "id": "53046P109 ",
+    "ticker": "LEXEA ",
+    "name": "Liberty Expedia Holdings Inc ",
+    "shares": 1689,
+    "price": 39.4310746003552,
+    "marketValue": 66599.085
+  },
+  {
+    "id": "829214105",
+    "ticker": "SLP ",
+    "name": "Simulations Plus Inc ",
+    "shares": 1279,
+    "price": 18.4541399530884,
+    "marketValue": 23602.845
+  },
+  {
+    "id": "913543104",
+    "ticker": "UFPI ",
+    "name": "Universal Forest Products Inc ",
+    "shares": 2610,
+    "price": 33.0971264367816,
+    "marketValue": 86383.5
+  },
+  {
+    "id": "69354M108 ",
+    "ticker": "PRAH ",
+    "name": "PRA Health Sciences Inc ",
+    "shares": 4692,
+    "price": 81.3928724424552,
+    "marketValue": 381895.3575
+  },
+  {
+    "id": "595137100",
+    "ticker": "MSCC ",
+    "name": "Microsemi Corp ",
+    "shares": 5477,
+    "price": 67.9294878583166,
+    "marketValue": 372049.805
+  },
+  {
+    "id": "23283R100 ",
+    "ticker": "CONE ",
+    "name": "CyrusOne Inc ",
+    "shares": 1142,
+    "price": 54.5629006129597,
+    "marketValue": 62310.8325
+  },
+  {
+    "id": "525558201",
+    "ticker": "LMAT ",
+    "name": "LeMaitre Vascular Inc ",
+    "shares": 1415,
+    "price": 33.7155,
+    "marketValue": 47707.4325
+  },
+  {
+    "id": "42225P501 ",
+    "ticker": "HTA ",
+    "name": "Healthcare Trust of America Inc ",
+    "shares": 2439,
+    "price": 25.7853136531365,
+    "marketValue": 62890.38
+  },
+  {
+    "id": "670704105",
+    "ticker": "NUVA ",
+    "name": "NuVasive Inc ",
+    "shares": 3770,
+    "price": 49.3164529177719,
+    "marketValue": 185923.0275
+  },
+  {
+    "id": "156504300",
+    "ticker": "CCS ",
+    "name": "Century Communities Inc ",
+    "shares": 868,
+    "price": 30.673125,
+    "marketValue": 26624.2725
+  },
+  {
+    "id": "G3198U102 ",
+    "ticker": "ESNT ",
+    "name": "Essent Group Ltd ",
+    "shares": 3496,
+    "price": 35.8600679347826,
+    "marketValue": 125366.7975
+  },
+  {
+    "id": "80689H102 ",
+    "ticker": "SNDR ",
+    "name": "Schneider National Inc ",
+    "shares": 4008,
+    "price": 27.1918300898204,
+    "marketValue": 108984.855
+  },
+  {
+    "id": "62945V109 ",
+    "ticker": "NVEE ",
+    "name": "NV5 Global Inc ",
+    "shares": 458,
+    "price": 60.2986572052402,
+    "marketValue": 27616.785
+  },
+  {
+    "id": "637870106",
+    "ticker": "NSA ",
+    "name": "National Storage Affiliates Trust ",
+    "shares": 594,
+    "price": 27.2011868686869,
+    "marketValue": 16157.505
+  },
+  {
+    "id": "57665R106 ",
+    "ticker": "MTCH ",
+    "name": "Match Group Inc ",
+    "shares": 2949,
+    "price": 35.3116353001017,
+    "marketValue": 104134.0125
+  },
+  {
+    "id": "14713L102 ",
+    "ticker": "CASA ",
+    "name": "Casa Systems Inc ",
+    "shares": 3734,
+    "price": 22.8925448580611,
+    "marketValue": 85480.7625
+  },
+  {
+    "id": "42225K106 ",
+    "ticker": "HIIQ ",
+    "name": "Health Insurance Innovations Inc ",
+    "shares": 457,
+    "price": 27.8295951859956,
+    "marketValue": 12718.125
+  },
+  {
+    "id": "40418F108 ",
+    "ticker": "HF ",
+    "name": "HFF Inc ",
+    "shares": 457,
+    "price": 35.5105634573304,
+    "marketValue": 16228.3275
+  },
+  {
+    "id": "35086T109 ",
+    "ticker": "FCPT ",
+    "name": "Four Corners Property Trust Inc ",
+    "shares": 730,
+    "price": 22.84275,
+    "marketValue": 16675.2075
+  },
+  {
+    "id": "362393100",
+    "ticker": "GTT ",
+    "name": "GTT Communications Inc ",
+    "shares": 2027,
+    "price": 52.0196003946719,
+    "marketValue": 105443.73
+  },
+  {
+    "id": "62914B100 ",
+    "ticker": "EGOV ",
+    "name": "NIC Inc ",
+    "shares": 3085,
+    "price": 15.6609116693679,
+    "marketValue": 48313.9125
+  },
+  {
+    "id": "35138V102 ",
+    "ticker": "FOXF ",
+    "name": "Fox Factory Holding Corp ",
+    "shares": 1105,
+    "price": 35.4117013574661,
+    "marketValue": 39129.93
+  },
+  {
+    "id": "81768T108 ",
+    "ticker": "SFBS ",
+    "name": "ServisFirst Bancshares Inc ",
+    "shares": 1890,
+    "price": 42.39375,
+    "marketValue": 80124.1875
+  },
+  {
+    "id": "85917W102 ",
+    "ticker": "SBT ",
+    "name": "Sterling Bancorp Inc/MI ",
+    "shares": 1890,
+    "price": 13.2868055555556,
+    "marketValue": 25112.0625
+  },
+  {
+    "id": "172755100",
+    "ticker": "CRUS ",
+    "name": "Cirrus Logic Inc ",
+    "shares": 2948,
+    "price": 38.5533073270014,
+    "marketValue": 113655.15
+  },
+  {
+    "id": "74967R106 ",
+    "ticker": "RMR ",
+    "name": "RMR Group Inc ",
+    "shares": 183,
+    "price": 81.544262295082,
+    "marketValue": 14922.6
+  },
+  {
+    "id": "377322102",
+    "ticker": "GKOS ",
+    "name": "Glaukos Corp ",
+    "shares": 2538,
+    "price": 35.7103427895981,
+    "marketValue": 90632.85
+  },
+  {
+    "id": "85208M102 ",
+    "ticker": "SFM ",
+    "name": "Sprouts Farmers Market Inc ",
+    "shares": 2538,
+    "price": 21.5959929078014,
+    "marketValue": 54810.63
+  },
+  {
+    "id": "426281101",
+    "ticker": "JKHY ",
+    "name": "Jack Henry & Associates Inc ",
+    "shares": 3596,
+    "price": 122.104555756396,
+    "marketValue": 439087.9825
+  },
+  {
+    "id": "63904106",
+    "ticker": "OZRK ",
+    "name": "Bank of the Ozarks ",
+    "shares": 4620,
+    "price": 47.4410568181818,
+    "marketValue": 219177.6825
+  },
+  {
+    "id": "57060D108 ",
+    "ticker": "MKTX ",
+    "name": "MarketAxess Holdings Inc ",
+    "shares": 1343,
+    "price": 204.53015450484,
+    "marketValue": 274683.9975
+  },
+  {
+    "id": "32359309",
+    "ticker": "AFSI ",
+    "name": "AmTrust Financial Services Inc ",
+    "shares": 7077,
+    "price": 13.166943620178,
+    "marketValue": 93182.46
+  },
+  {
+    "id": "00164V103 ",
+    "ticker": "AMCX ",
+    "name": "AMC Networks Inc ",
+    "shares": 1479,
+    "price": 53.2465365111562,
+    "marketValue": 78751.6275
+  },
+  {
+    "id": "99406100",
+    "ticker": "BOOT ",
+    "name": "Boot Barn Holdings Inc ",
+    "shares": 796,
+    "price": 20.0703015075377,
+    "marketValue": 15975.96
+  },
+  {
+    "id": "351793104",
+    "ticker": "FRAN ",
+    "name": "Francesca's Holdings Corp ",
+    "shares": 1069,
+    "price": 4.85779700654818,
+    "marketValue": 5192.985
+  },
+  {
+    "id": "00401C108 ",
+    "ticker": "ACIA ",
+    "name": "Acacia Communications Inc ",
+    "shares": 1854,
+    "price": 30.8923705501618,
+    "marketValue": 57274.455
+  },
+  {
+    "id": "G4740B105 ",
+    "ticker": "ICHR ",
+    "name": "Ichor Holdings Ltd ",
+    "shares": 1205,
+    "price": 23.7405,
+    "marketValue": 28607.3025
+  },
+  {
+    "id": "21240D107 ",
+    "ticker": "CTRL ",
+    "name": "Control4 Corp ",
+    "shares": 1205,
+    "price": 22.743,
+    "marketValue": 27405.315
+  },
+  {
+    "id": "05566U108 ",
+    "ticker": "BOFI ",
+    "name": "BofI Holding Inc ",
+    "shares": 2229,
+    "price": 40.4983209959623,
+    "marketValue": 90270.7575
+  },
+  {
+    "id": "68404V100 ",
+    "ticker": "OPTN ",
+    "name": "Optinose Inc ",
+    "shares": 2775,
+    "price": 21.3565648648649,
+    "marketValue": 59264.4675
+  },
+  {
+    "id": "421906108",
+    "ticker": "HCSG ",
+    "name": "Healthcare Services Group Inc ",
+    "shares": 3150,
+    "price": 37.5459,
+    "marketValue": 118269.585
+  },
+  {
+    "id": "43283X105 ",
+    "ticker": "HGV ",
+    "name": "Hilton Grand Vacations Inc ",
+    "shares": 2911,
+    "price": 39.8701880796977,
+    "marketValue": 116062.1175
+  },
+  {
+    "id": "848577102",
+    "ticker": "SAVE ",
+    "name": "Spirit Airlines Inc ",
+    "shares": 2911,
+    "price": 36.6481020267949,
+    "marketValue": 106682.625
+  },
+  {
+    "id": "50187T106 ",
+    "ticker": "LGIH ",
+    "name": "LGI Homes Inc ",
+    "shares": 658,
+    "price": 75.6098936170213,
+    "marketValue": 49751.31
+  },
+  {
+    "id": "88146M101 ",
+    "ticker": "TRNO ",
+    "name": "Terreno Realty Corp ",
+    "shares": 658,
+    "price": 38.9025,
+    "marketValue": 25597.845
+  },
+  {
+    "id": "712706209",
+    "ticker": "PUB ",
+    "name": "People's Utah Bancorp ",
+    "shares": 658,
+    "price": 32.3687234042553,
+    "marketValue": 21298.62
+  },
+  {
+    "id": "974637100",
+    "ticker": "WGO ",
+    "name": "Winnebago Industries Inc ",
+    "shares": 931,
+    "price": 38.3035714285714,
+    "marketValue": 35660.625
+  },
+  {
+    "id": "71742Q106 ",
+    "ticker": "PAHC ",
+    "name": "Phibro Animal Health Corp ",
+    "shares": 1443,
+    "price": 41.9945426195426,
+    "marketValue": 60598.125
+  },
+  {
+    "id": "36467J108 ",
+    "ticker": "GLPI ",
+    "name": "Gaming and Leisure Properties Inc ",
+    "shares": 2501,
+    "price": 34.553543582567,
+    "marketValue": 86418.4125
+  },
+  {
+    "id": "90328S500 ",
+    "ticker": "USAT ",
+    "name": "USA Technologies Inc ",
+    "shares": 2501,
+    "price": 9.67586965213914,
+    "marketValue": 24199.35
+  },
+  {
+    "id": "609027107",
+    "ticker": "MCRI ",
+    "name": "Monarch Casino & Resort Inc ",
+    "shares": 521,
+    "price": 43.5415451055662,
+    "marketValue": 22685.145
+  },
+  {
+    "id": "654060000",
+    "ticker": "NCBS ",
+    "name": "Nicolet Bankshares Inc ",
+    "shares": 350,
+    "price": 55.3128,
+    "marketValue": 19359.48
+  },
+  {
+    "id": "49427F108 ",
+    "ticker": "KRC ",
+    "name": "Kilroy Realty Corp ",
+    "shares": 1169,
+    "price": 73.6153293413174,
+    "marketValue": 86056.32
+  },
+  {
+    "id": "86933G105 ",
+    "ticker": "SLD ",
+    "name": "Sutherland Asset Management Corp ",
+    "shares": 1169,
+    "price": 14.3643413173653,
+    "marketValue": 16791.915
+  },
+  {
+    "id": "574795100",
+    "ticker": "MASI ",
+    "name": "Masimo Corp ",
+    "shares": 3797,
+    "price": 98.8665130366078,
+    "marketValue": 375396.15
+  },
+  {
+    "id": "16411W108 ",
+    "ticker": "CQH ",
+    "name": "Cheniere Energy Partners LP Holdings LLC ",
+    "shares": 5606,
+    "price": 28.2691428826258,
+    "marketValue": 158476.815
+  },
+  {
+    "id": "G57279104 ",
+    "ticker": "LXFT ",
+    "name": "Luxoft Holding Inc ",
+    "shares": 1032,
+    "price": 41.197136627907,
+    "marketValue": 42515.445
+  },
+  {
+    "id": "89678F100 ",
+    "ticker": "TSC ",
+    "name": "TriState Capital Holdings Inc ",
+    "shares": 1032,
+    "price": 25.486511627907,
+    "marketValue": 26302.08
+  },
+  {
+    "id": "942622200",
+    "ticker": "WSO ",
+    "name": "Watsco Inc ",
+    "shares": 1544,
+    "price": 173.614745790155,
+    "marketValue": 268061.1675
+  },
+  {
+    "id": "440894103",
+    "ticker": "HDP ",
+    "name": "Hortonworks Inc ",
+    "shares": 3387,
+    "price": 18.7230779450841,
+    "marketValue": 63415.065
+  },
+  {
+    "id": "09239B109 ",
+    "ticker": "BL ",
+    "name": "Blackline Inc ",
+    "shares": 2465,
+    "price": 40.6381095334686,
+    "marketValue": 100172.94
+  },
+  {
+    "id": "3654100",
+    "ticker": "ABMD ",
+    "name": "ABIOMED Inc ",
+    "shares": 3250,
+    "price": 348.439079230769,
+    "marketValue": 1132427.0075
+  },
+  {
+    "id": "217204106",
+    "ticker": "CPRT ",
+    "name": "Copart Inc ",
+    "shares": 9906,
+    "price": 52.5711364324652,
+    "marketValue": 520769.6775
+  },
+  {
+    "id": "12008R107 ",
+    "ticker": "BLDR ",
+    "name": "Builders FirstSource Inc ",
+    "shares": 4820,
+    "price": 18.822742219917,
+    "marketValue": 90725.6175
+  },
+  {
+    "id": "379577208",
+    "ticker": "GMED ",
+    "name": "Globus Medical Inc ",
+    "shares": 5332,
+    "price": 49.8849151350338,
+    "marketValue": 265986.3675
+  },
+  {
+    "id": "90347A100 ",
+    "ticker": "UBNT ",
+    "name": "Ubiquiti Networks Inc ",
+    "shares": 3625,
+    "price": 74.0643062068965,
+    "marketValue": 268483.11
+  },
+  {
+    "id": "439038100",
+    "ticker": "HOFT ",
+    "name": "Hooker Furniture Corp ",
+    "shares": 348,
+    "price": 37.0565517241379,
+    "marketValue": 12895.68
+  },
+  {
+    "id": "419879101",
+    "ticker": "HA ",
+    "name": "Hawaiian Holdings Inc ",
+    "shares": 2191,
+    "price": 35.91,
+    "marketValue": 78678.81
+  },
+  {
+    "id": "91347P105 ",
+    "ticker": "OLED ",
+    "name": "Universal Display Corp ",
+    "shares": 2191,
+    "price": 95.2113977635783,
+    "marketValue": 208608.1725
+  },
+  {
+    "id": "957638109",
+    "ticker": "WAL ",
+    "name": "Western Alliance Bancorp ",
+    "shares": 3761,
+    "price": 59.8200299122574,
+    "marketValue": 224983.1325
+  },
+  {
+    "id": "974155103",
+    "ticker": "WING ",
+    "name": "Wingstop Inc ",
+    "shares": 859,
+    "price": 53.8348079161816,
+    "marketValue": 46244.1
+  },
+  {
+    "id": "26443V101 ",
+    "ticker": "DLTH ",
+    "name": "Duluth Holdings Inc ",
+    "shares": 859,
+    "price": 16.8274417927823,
+    "marketValue": 14454.7725
+  },
+  {
+    "id": "89400J107 ",
+    "ticker": "TRU ",
+    "name": "TransUnion ",
+    "shares": 7788,
+    "price": 67.9794889573703,
+    "marketValue": 529424.26
+  },
+  {
+    "id": "40701T104 ",
+    "ticker": "HBB ",
+    "name": "Hamilton Beach Brands Holding Co ",
+    "shares": 210,
+    "price": 24.59075,
+    "marketValue": 5164.0575
+  },
+  {
+    "id": "72703H101 ",
+    "ticker": "PLNT ",
+    "name": "Planet Fitness Inc ",
+    "shares": 2565,
+    "price": 41.3462777777778,
+    "marketValue": 106053.2025
+  },
+  {
+    "id": "74978Q105 ",
+    "ticker": "RSPP ",
+    "name": "RSP Permian Inc ",
+    "shares": 3862,
+    "price": 48.8973880113931,
+    "marketValue": 188841.7125
+  },
+  {
+    "id": "171779309",
+    "ticker": "CIEN ",
+    "name": "Ciena Corp ",
+    "shares": 6729,
+    "price": 26.4836324119483,
+    "marketValue": 178208.3625
+  },
+  {
+    "id": "78467J100 ",
+    "ticker": "SSNC ",
+    "name": "SS&C Technologies Holdings Inc ",
+    "shares": 9596,
+    "price": 48.871875,
+    "marketValue": 468974.5125
+  },
+  {
+    "id": "566324109",
+    "ticker": "MMI ",
+    "name": "Marcus & Millichap Inc ",
+    "shares": 448,
+    "price": 34.8523828125,
+    "marketValue": 15613.8675
+  },
+  {
+    "id": "868358102",
+    "ticker": "SGC ",
+    "name": "Superior Uniform Group Inc ",
+    "shares": 448,
+    "price": 25.2759375,
+    "marketValue": 11323.62
+  },
+  {
+    "id": "00938A104 ",
+    "ticker": "AIRG ",
+    "name": "Airgain Inc ",
+    "shares": 448,
+    "price": 8.1291796875,
+    "marketValue": 3641.8725
+  },
+  {
+    "id": "20084V306 ",
+    "ticker": "CHUBK ",
+    "name": "CommerceHub Inc ",
+    "shares": 2018,
+    "price": 22.6731057978196,
+    "marketValue": 45754.3275
+  },
+  {
+    "id": "602496101",
+    "ticker": "MDXG ",
+    "name": "MiMedx Group Inc ",
+    "shares": 8162,
+    "price": 8.03988421955403,
+    "marketValue": 65621.535
+  },
+  {
+    "id": "138098108",
+    "ticker": "CMD ",
+    "name": "Cantel Medical Corp ",
+    "shares": 3076,
+    "price": 118.445244635891,
+    "marketValue": 364337.5725
+  },
+  {
+    "id": "93148P102 ",
+    "ticker": "WD ",
+    "name": "Walker & Dunlop Inc ",
+    "shares": 1096,
+    "price": 54.5130109489051,
+    "marketValue": 59746.26
+  },
+  {
+    "id": "629209305",
+    "ticker": "NMIH ",
+    "name": "NMI Holdings Inc ",
+    "shares": 2154,
+    "price": 16.3091713091922,
+    "marketValue": 35129.955
+  },
+  {
+    "id": "476405105",
+    "ticker": "JCAP ",
+    "name": "Jernigan Capital Inc ",
+    "shares": 174,
+    "price": 19.1416810344828,
+    "marketValue": 3330.6525
+  },
+  {
+    "id": "21369103",
+    "ticker": "ALTR ",
+    "name": "Altair Engineering Inc ",
+    "shares": 1232,
+    "price": 30.3840767045455,
+    "marketValue": 37433.1825
+  },
+  {
+    "id": "317485100",
+    "ticker": "FNGN ",
+    "name": "Financial Engines Inc ",
+    "shares": 2256,
+    "price": 44.4886768617021,
+    "marketValue": 100366.455
+  },
+  {
+    "id": "70959W103 ",
+    "ticker": "PAG ",
+    "name": "Penske Automotive Group Inc ",
+    "shares": 2529,
+    "price": 46.8525237247924,
+    "marketValue": 118490.0325
+  },
+  {
+    "id": "422806109",
+    "ticker": "HEI ",
+    "name": "HEICO Corp ",
+    "shares": 4099,
+    "price": 90.8063472798243,
+    "marketValue": 372215.2175
+  },
+  {
+    "id": "55276F107 ",
+    "ticker": "MCFT ",
+    "name": "MCBC Holdings Inc ",
+    "shares": 549,
+    "price": 26.0240300546448,
+    "marketValue": 14287.1925
+  },
+  {
+    "id": "29786A106 ",
+    "ticker": "ETSY ",
+    "name": "Etsy Inc ",
+    "shares": 5669,
+    "price": 31.3414535191392,
+    "marketValue": 177674.7
+  },
+  {
+    "id": "55305B101 ",
+    "ticker": "MHO ",
+    "name": "M/I Homes Inc ",
+    "shares": 822,
+    "price": 30.8023631386861,
+    "marketValue": 25319.5425
+  },
+  {
+    "id": "960413102",
+    "ticker": "WLK ",
+    "name": "Westlake Chemical Corp ",
+    "shares": 8263,
+    "price": 107.117179595788,
+    "marketValue": 885109.255
+  },
+  {
+    "id": "01748X102 ",
+    "ticker": "ALGT ",
+    "name": "Allegiant Travel Co ",
+    "shares": 685,
+    "price": 159.201,
+    "marketValue": 109052.685
+  },
+  {
+    "id": "225310101",
+    "ticker": "CACC ",
+    "name": "Credit Acceptance Corp ",
+    "shares": 685,
+    "price": 324.855897810219,
+    "marketValue": 222526.29
+  },
+  {
+    "id": "29977A105 ",
+    "ticker": "EVR ",
+    "name": "Evercore Inc ",
+    "shares": 1470,
+    "price": 103.989714285714,
+    "marketValue": 152864.88
+  },
+  {
+    "id": "278715206",
+    "ticker": "EBIX ",
+    "name": "Ebix Inc ",
+    "shares": 1470,
+    "price": 80.5484642857143,
+    "marketValue": 118406.2425
+  },
+  {
+    "id": "577933104",
+    "ticker": "MMS ",
+    "name": "MAXIMUS Inc ",
+    "shares": 3040,
+    "price": 66.92240625,
+    "marketValue": 203444.115
+  },
+  {
+    "id": "06654A103 ",
+    "ticker": "BWFG ",
+    "name": "Bankwell Financial Group Inc ",
+    "shares": 275,
+    "price": 31.8293181818182,
+    "marketValue": 8753.0625
+  },
+  {
+    "id": "03076K108 ",
+    "ticker": "ABCB ",
+    "name": "Ameris Bancorp ",
+    "shares": 1333,
+    "price": 53.7654744936234,
+    "marketValue": 71669.3775
+  },
+  {
+    "id": "444097109",
+    "ticker": "HPP ",
+    "name": "Hudson Pacific Properties Inc ",
+    "shares": 1845,
+    "price": 34.3740121951219,
+    "marketValue": 63420.0525
+  },
+  {
+    "id": "7973100",
+    "ticker": "AEIS ",
+    "name": "Advanced Energy Industries Inc ",
+    "shares": 1845,
+    "price": 63.6307682926829,
+    "marketValue": 117398.7675
+  },
+  {
+    "id": "69336V101 ",
+    "ticker": "PGTI ",
+    "name": "PGT Innovations Inc ",
+    "shares": 2118,
+    "price": 18.1546883852691,
+    "marketValue": 38451.63
+  },
+  {
+    "id": "91307C102 ",
+    "ticker": "UTHR ",
+    "name": "United Therapeutics Corp ",
+    "shares": 3176,
+    "price": 102.655873740554,
+    "marketValue": 326035.055
+  },
+  {
+    "id": "496719105",
+    "ticker": "KINS ",
+    "name": "Kingstone Cos Inc ",
+    "shares": 377,
+    "price": 17.407301061008,
+    "marketValue": 6562.5525
+  },
+  {
+    "id": "G60754101 ",
+    "ticker": "KORS ",
+    "name": "Michael Kors Holdings Ltd ",
+    "shares": 4473,
+    "price": 61.7038413816231,
+    "marketValue": 276001.2825
+  },
+  {
+    "id": "21870Q105 ",
+    "ticker": "COR ",
+    "name": "CoreSite Realty Corp ",
+    "shares": 411,
+    "price": 104.198704379562,
+    "marketValue": 42825.6675
+  },
+  {
+    "id": "238337109",
+    "ticker": "PLAY ",
+    "name": "Dave & Buster's Entertainment Inc ",
+    "shares": 1196,
+    "price": 41.7256918896321,
+    "marketValue": 49903.9275
+  },
+  {
+    "id": "73278L105 ",
+    "ticker": "POOL ",
+    "name": "Pool Corp ",
+    "shares": 1196,
+    "price": 143.360599916388,
+    "marketValue": 171459.2775
+  },
+  {
+    "id": "567908108",
+    "ticker": "HZO ",
+    "name": "MarineMax Inc ",
+    "shares": 786,
+    "price": 22.7432538167939,
+    "marketValue": 17876.1975
+  },
+  {
+    "id": "38741L107 ",
+    "ticker": "GPMT ",
+    "name": "Granite Point Mortgage Trust Inc ",
+    "shares": 1571,
+    "price": 16.9378166772756,
+    "marketValue": 26609.31
+  },
+  {
+    "id": "432748101",
+    "ticker": "HTH ",
+    "name": "Hilltop Holdings Inc ",
+    "shares": 3414,
+    "price": 22.4238818101933,
+    "marketValue": 76555.1325
+  },
+  {
+    "id": "38983D300 ",
+    "ticker": "AJX ",
+    "name": "Great Ajax Corp ",
+    "shares": 649,
+    "price": 13.4470377503852,
+    "marketValue": 8727.1275
+  },
+  {
+    "id": "294268107",
+    "ticker": "PLUS ",
+    "name": "ePlus Inc ",
+    "shares": 649,
+    "price": 84.7383166409861,
+    "marketValue": 54995.1675
+  },
+  {
+    "id": "82982L103 ",
+    "ticker": "SITE ",
+    "name": "SiteOne Landscape Supply Inc ",
+    "shares": 1707,
+    "price": 73.7150746924429,
+    "marketValue": 125831.6325
+  },
+  {
+    "id": "24061103",
+    "ticker": "AXL ",
+    "name": "American Axle & Manufacturing Holdings Inc ",
+    "shares": 3277,
+    "price": 14.8626586817211,
+    "marketValue": 48704.9325
+  }
+]
